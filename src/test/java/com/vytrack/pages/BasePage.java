@@ -27,6 +27,7 @@ public abstract class BasePage {
     }
 
     public String getPageSubTitleText() {
+
         return pageSubTitle.getText();
     }
 
